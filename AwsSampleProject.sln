@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C27247CA-9CCA-4E82-9ADF-273A5C509C09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqs", "Sqs\Sqs.csproj", "{45A7AA8F-6B8C-4345-865E-35290FF99955}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSqs", "SampleSqs\SampleSqs.csproj", "{66487AF7-5DC9-44E2-AB6D-4285BF65BFE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,12 +10,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45A7AA8F-6B8C-4345-865E-35290FF99955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45A7AA8F-6B8C-4345-865E-35290FF99955}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45A7AA8F-6B8C-4345-865E-35290FF99955}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45A7AA8F-6B8C-4345-865E-35290FF99955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66487AF7-5DC9-44E2-AB6D-4285BF65BFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66487AF7-5DC9-44E2-AB6D-4285BF65BFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66487AF7-5DC9-44E2-AB6D-4285BF65BFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66487AF7-5DC9-44E2-AB6D-4285BF65BFE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{45A7AA8F-6B8C-4345-865E-35290FF99955} = {C27247CA-9CCA-4E82-9ADF-273A5C509C09}
+		{66487AF7-5DC9-44E2-AB6D-4285BF65BFE0} = {C27247CA-9CCA-4E82-9ADF-273A5C509C09}
 	EndGlobalSection
 EndGlobal
